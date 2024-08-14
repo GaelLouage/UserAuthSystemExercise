@@ -1,0 +1,32 @@
+[
+  {
+    "UserName": "Gael",
+    "PasswordHash": "nn9eK/XWRCbKB0y7Zj/wGaI0PUDwZUvGDiwKX8Si4D8=",
+    "Salt": "68FGdQTHgUGCGEhJbMC4Lw=="
+  },
+  {
+    "UserName": "David",
+    "PasswordHash": "kY+4CQYsXE7RAVh2KXXOY3N7yqgI6vMNdStFI0MXB7g=",
+    "Salt": "fbS8EU5iZ6PrrJJpniEAPg=="
+  },
+  {
+    "UserName": "Estelle",
+    "PasswordHash": "Y7VneXxrPk7cQMQ5u7X8DC+YKqy+cBqyDxk3oLS6KXw=",
+    "Salt": "in30Lvh88mOa3ZH4nr3yAA=="
+  },
+  {
+    "UserName": "Quinten",
+    "PasswordHash": "fuOIXlJbvVgNI2HbQgCNh6V0co8EmGMzVDA5vRK0ef4=",
+    "Salt": "kWIqM6I9AYnR96R424Feow=="
+  },
+  {
+    "UserName": "Leandro",
+    "PasswordHash": "U1CKcsm8osTxw60n2KC6+9lPVHnRI2g6OV1LHAl1K1A=",
+    "Salt": "CRMrhYyW/y0Y+Fz+U2lWNQ=="
+  },
+  {
+    "UserName": "Bart",
+    "PasswordHash": "+jnIGKNIVonNpSnps7QiBYXl4gjkgy443haZ+bKyXS8=",
+    "Salt": "ynJR7R9UockNDD0FffId/g=="
+  }
+]
